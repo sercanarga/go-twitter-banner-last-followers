@@ -10,7 +10,7 @@ import (
 	"log"
 	"os"
 	"os/signal"
-	"twitterFollowers/modules"
+	"github.com/sercanarga/go-twitter-banner-last-followers/modules"
 )
 
 type info struct {
