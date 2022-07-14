@@ -1,4 +1,4 @@
-module twitterFollowers
+module github.com/sercanarga/go-twitter-banner-last-followers
 
 go 1.18
 
