@@ -4,6 +4,6 @@
 
     go get github.com/sercanarga/go-twitter-banner-last-followers
 
-## Documentation
+## Contribution
 
-no documentation (:
+Her türlü pull request kabulümüzdür. (:
